@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ControlRemoto</string>
+    <string name="strContent">Imagen</string>
+    <string name="strDesc">Desconectar</string>
+    <string name="strEscriba">Escriba un texto</string>
+    <string name="strRes">Respuesta</string>
+</resources>
